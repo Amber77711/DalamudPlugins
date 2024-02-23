@@ -12,9 +12,9 @@
     "LoadPriority": 0,
     "Punchline": "自用",
     "IconUrl": "",
-    "DownloadLinkInstall": "",
-    "DownloadLinkTesting": "",
-    "DownloadLinkUpdate": "",
+    "DownloadLinkInstall": "https://github.com/Amber77711/DalamudPlugins/raw/main/Saucy/Saucy.rar",
+    "DownloadLinkTesting": "https://github.com/Amber77711/DalamudPlugins/raw/main/Saucy/Saucy.rar",
+    "DownloadLinkUpdate": "https://github.com/Amber77711/DalamudPlugins/raw/main/Saucy/Saucy.rar",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": ""
