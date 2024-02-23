@@ -1,1 +1,22 @@
-
+[
+  {
+    "Author": "Amber",
+    "Name": "Saucy",
+    "InternalName": "Saucy",
+    "AssemblyVersion": "1.1.0.2",
+    "Description": "自用",
+    "ApplicableVersion": "any",
+    "RepoUrl": "",
+    "Tags": "",
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "Punchline": "自用",
+    "IconUrl": "",
+    "DownloadLinkInstall": "",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": "",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": ""
+  },
+]
